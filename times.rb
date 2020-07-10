@@ -1,6 +1,6 @@
 def using_times
   loop do.  #your code here
-   put 
+   puts "Iteration #{counter} of the loop"
 end
 
 "Wingardium Leviosa"
